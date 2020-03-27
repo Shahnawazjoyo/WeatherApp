@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherReports</string>
+    <string name="step_ii_weather_forecast">STEP II (Weather Forecast)</string>
+    <string name="step_i_current_temprature">STEP I (Current Temprature)</string>
+    <string name="enter_city_names_followed_by_comma">Enter City Names followed by comma</string>
+    <string name="get_weather_details">get Weather Details</string>
+    <string name="temp_min">Temp Min:</string>
+    <string name="temp_max">Temp max:</string>
+    <string name="wind_speed">Wind Speed:</string>
+    <string name="weather_description">Weather Description</string>
+</resources>
